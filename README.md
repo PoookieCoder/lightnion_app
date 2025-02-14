@@ -7,7 +7,7 @@ Lightnion Mobile
 
 ## IDEAS: 
 ### Feature Ideas
-- **Tor Circuit Management**: Lean TCP connections, Port from JavaScript to Dart, Manages TCP connections..
+- **Tor Circuit Management**: Lean TCP connections, Port from JavaScript to Dart, Managing TCP connections..
 - **Proxy Interface**: WebSocket-based proxy communication with auto-reconnection. Handling NAT traversal and IP address changes.
 - **Cryptographic Implementation**: `AES-128-CTR encryption`, `SHA-3` digest calculations, and secure enclave integration using `FlutterSecureStorage`. platform specific optimizations.
 - **Network Handling**: NAT traversal, and proxy failover mechanisms. Handling network transitions (WiFi ↔ Cellular).
@@ -130,7 +130,7 @@ class TorClient {
 ### **Installation**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/lightnion_mobile.git
+   git clone https://github.com/PoookieCoder/lightnion_app.git
    ```
 2. Install dependencies:
    ```sh
